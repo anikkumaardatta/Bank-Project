@@ -1,5 +1,5 @@
 # Bank-Project
 live link : https://bank-project-anik-k-d.netlify.app/
 
-# Email: admin
+# Email: anikkumaardatta@gmail.com
 # Password : 1234
